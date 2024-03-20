@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Sudip
 
+- **📫 How to reach me:** bhuniasudipkumar710@gmail.com
+
 <!--
 **Sudip-HITkolkata/Sudip-HITkolkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
